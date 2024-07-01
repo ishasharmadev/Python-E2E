@@ -1,0 +1,2 @@
+Classes are blueprints 
+Objects are instances
